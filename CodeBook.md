@@ -33,9 +33,9 @@ STANDING,
 LAYING
 
 # Definitions of Variables
-activity_label = factor
-subjec = integer
-rest = numeric
+activity_label = factor, 
+subjec = integer, 
+rest = numeric, 
 
 # 66 variables of measurement (+ activity_label and subject)
 1. "tBodyAcc-mean()-X"
