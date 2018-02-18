@@ -12,10 +12,22 @@ Here are the data for the project:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 # Assignment
-R code's goal is:
-
+Goal of this Assignment is:
 1. Merge training and test sets to create one data set
 2. Extract only the mean and standard deviation measurements
 3. Extract only the mean and standard deviation measurements
 4. Label data set with descriptive variable names
 5. From the outcome of 4, create an independent data saet with average of each variabe for each activity and subject
+
+
+# R Code
+1st Step: Getting the data - Download & Unzip (1)
+2nd Step: Extract the correct data (2-3)
+3rd Step: Generate tidy data File (4-5)
+
+# Review Criteria
+* The submitted data set is tidy. 
+* The Github repo contains the required scripts.
+* GitHub contains a code book that modifies and updates the available codebooks with the data to indicate all the variables and summaries calculated, along with units, and any other relevant information.
+* The README that explains the analysis files is clear and understandable.
+* The work submitted for this project is the work of the student who submitted it.
