@@ -19,15 +19,16 @@ Goal of this Assignment is:
 4. Label data set with descriptive variable names
 5. From the outcome of 4, create an independent data saet with average of each variabe for each activity and subject
 
+# Data 
+The resulting clean data is shown in tidy.txt
+run_analysis.R is the code for the R script used to complete the project goals.
 
-# R Code
-1st Step: Getting the data - Download & Unzip (1)
-2nd Step: Extract the correct data (2-3)
-3rd Step: Generate tidy data File (4-5)
+# Code
+The lines of code are described in the R file.
 
 # Review Criteria
-* The submitted data set is tidy. 
-* The Github repo contains the required scripts.
-* GitHub contains a code book that modifies and updates the available codebooks with the data to indicate all the variables and summaries calculated, along with units, and any other relevant information.
-* The README that explains the analysis files is clear and understandable.
-* The work submitted for this project is the work of the student who submitted it.
+* The submitted data set is tidy.  [check]
+* The Github repo contains the required scripts. [check]
+* GitHub contains a code book that modifies and updates the available codebooks with the data to indicate all the variables and summaries calculated, along with units, and any other relevant information. [check]
+* The README that explains the analysis files is clear and understandable. [check]
+* The work submitted for this project is the work of the student who submitted it. [check]
